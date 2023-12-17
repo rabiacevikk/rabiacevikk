@@ -1,7 +1,4 @@
-<h2 align="left"  style="background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
-      -webkit-background-clip: text;
-      color: transparent;
-      display: inline-block;">Hi 👋! My name is Rabia Çevik and I'm A Senior Computer Engineering Student</h2><br>
+
 <img src="https://i.hizliresim.com/i8sz8oq.gif">
 ###
 
