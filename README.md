@@ -73,6 +73,5 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br></div>
+</div>
   ![snake gif](https://github.com/rabiacevikk/rabiacevikk/blob/output/github-contribution-grid-snake.svg)
-  <br/><br/>
