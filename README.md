@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabia Çevik</h1>
-<h3 align="center">a Senior Computer Engineering Student</h3>
+<h3 align="center">A Senior Computer Engineering Student</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rabiacevikk/](https://www.linkedin.com/in/rabiacevikk/)
 
