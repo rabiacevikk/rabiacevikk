@@ -40,7 +40,7 @@
   </style>
 </head>
 <body>
-  <h2>Hi 👋! My name is <span>Rabia Çevik</span> and I'm a Senior Computer Engineering Student</h2>
+  <h2>Hi 👋! My name is<span class="colorful-text"> Rabia Çevik</span> and I'm a Senior Computer Engineering Student</h2>
 
   <div class="center">
     <img class="stats" src="https://github-readme-stats.vercel.app/api?username=rabiacevikk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
