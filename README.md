@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabia Çevik</h1>
 <h3 align="center">A Senior Computer Engineering Student</h3>
-<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" style="text-align:center" alt="">
-
+<center><img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  alt="">
+</center>
 - 📝 I regularly write articles on [https://medium.com/@rabiacevikk](https://medium.com/@rabiacevikk)
 
 - 📫 How to reach me **rabiaccevik@gmail.com**
