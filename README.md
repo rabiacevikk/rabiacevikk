@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabia Çevik</h1>
 <h3 align="center">A Senior Computer Engineering Student</h3>
-<center><img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-7362399-6031664.mp4](https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif"  width="450px" align="right" alt="">
+<center><img src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"  width="450px" align="right" alt="">
 </center>
 - 📝 I regularly write articles on [https://medium.com/@rabiacevikk](https://medium.com/@rabiacevikk)
 
