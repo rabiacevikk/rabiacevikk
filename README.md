@@ -2,7 +2,7 @@
       -webkit-background-clip: text;
       color: transparent;
       display: inline-block;">Hi 👋! My name is Rabia Çevik and I'm A Senior Computer Engineering Student</h2><br>
-<img src="https://i.hizliresim.com/a7lx6ey.gif">
+<img src="https://i.hizliresim.com/ah7anrn.gif">
 ###
 
 <div align="center">
