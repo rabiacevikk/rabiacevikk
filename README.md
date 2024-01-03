@@ -1,4 +1,4 @@
-<img align="right" width="43" src="https://i.hizliresim.com/2ufu141.jpg"  />
+<img align="right" width="243" src="https://i.hizliresim.com/2ufu141.jpg"  />
 <br>
 <img src="https://i.hizliresim.com/jvklh03.gif">
 <br>
