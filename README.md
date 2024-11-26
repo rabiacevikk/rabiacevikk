@@ -1,6 +1,6 @@
 <img align="right" width="243" src="https://i.hizliresim.com/lbyoacb.png"  />
 <br>
-<img src="[[https://hizliresim.com/926q5dh](https://hizliresim.com/926q5dh)](https://i.hizliresim.com/926q5dh.gif)">
+<img src="https://i.hizliresim.com/926q5dh.gif">
 <br>
 
 <div align="center">
