@@ -1,6 +1,6 @@
 <img align="right" width="243" src="https://i.hizliresim.com/lbyoacb.png"  />
 <br>
-<img src="https://i.hizliresim.com/926q5dh.gif">
+<img src="https://i.hizliresim.com/9ptqeb6.gif">
 <br>
 
 <div align="center">
