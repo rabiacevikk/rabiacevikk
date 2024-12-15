@@ -3,7 +3,6 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 21 * * *"  # Türkiye saatiyle 00:00'da çalışır
-# Her gün gece 00:00'da çalışır
   workflow_dispatch:      # Manuel çalıştırma
 
 jobs:
@@ -26,6 +25,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
+          git checkout -b output
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Generated snake contribution grid"
-          git push
+          git push origin output --force
